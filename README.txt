@@ -1,0 +1,1 @@
+This is a system which returns the layout for a randomly generated level. There are many parameters to tweak for the desired result. For a 2D game, results can be directly applied to the game world. For a 3D game, a mesh can be built using the returned data.
